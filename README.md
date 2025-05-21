@@ -2,6 +2,8 @@
 
 Proyecto Procesamiento del Habla - ISPC - 2025
 
+Dataset: https://www.kaggle.com/datasets/luisdiegofv97/imdb-dataset-of-50k-movie-reviews-spanish
+
 El trabajo se realizó utilizando una notebook en Jupyter 
 donde se aplicaron distintas herramientas para el preprocesamiento, análisis y representación de 
 texto, a partir de un conjunto de reseñas de películas en español.
